@@ -11,6 +11,7 @@ In the file, each list consists of a sequence of positive integers, one integer 
 Example files are from l1 to l11
 
 The algorithm I choose is conbination of heap and queue
+I will sort the list first to find the largest number then make compare
 
 ## Sample Output
 
